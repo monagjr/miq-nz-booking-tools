@@ -41,18 +41,6 @@ This is a Chrome browser extension that continuously refreshes the MIQ portal ho
 
 If you have questions, feel free to use the [`Discussions`](https://github.com/monagjr/miq-nz-booking-tools/discussions) section (select at the top of this page). Asking publicly will help others with a similar question and you might get help from more people.
 
-> I’m getting a `502 Bad Gateway`, `404` or `403 Forbidden` Error. What should I do? 
-
-This wil happen after the website has refreshed many times. Please wait 5-10 minutes and reactivate the script/app.
-
-> How much time do I have to book a spot?
-
-It seems that currently, less than 3 seconds. This might vary though.
-
-> After I click next, the page refreshes and nothing happens.
-
-This means that unfortunately, someone was quicker than you to secure the date.
-
 ## Contributions
 
 These tools are only a quick attempt to create some remedy. They are by far, not finished or perfect. Also, in case MIQ changes their website, they might break any time too.
